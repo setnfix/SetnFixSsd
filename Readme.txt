@@ -38,7 +38,7 @@ For detailed information on library functions and usage, refer to the library he
 
 ## Updates and Support
 
-Visit the www.GitHub.com/setnfux/SetnFixSsd (#) for updates, bug reports, and community support.
+Visit the www.GitHub.com/setnfix/SetnFixSsd (#) for updates, bug reports, and community support.
 
 ## License
 
